@@ -1,0 +1,1 @@
+In the file code we have 1hz_rgbLed.v that is used for fifo in FPGA and then we have fifo.bit 
