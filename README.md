@@ -22,10 +22,10 @@ CONTENTS:
 
 3 labs and 1 assignment:
 
-*Lab_1: Structural Model 
+•Lab_1: Structural Model 
 
-*Lab_2: Combinational Logic Circuit
+•Lab_2: Combinational Logic Circuit
 
-*Lab_3: Sequential Logic Circuit
+•Lab_3: Sequential Logic Circuit
 
-*Assignment: FIFO in FPGA
+•Assignment: FIFO in FPGA
