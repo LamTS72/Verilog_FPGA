@@ -1,5 +1,5 @@
 # Verilog_FPGA
-INTRODUCTION:
+## INTRODUCTION:
 
  FPGA is an integrated circuit designed to be configured by a customer or a designer after manufacturing – hence the term field-programmable. 
  The FPGA configuration is generally specified using a hardware description language (HDL), similar to that used for an application-specific integrated circuit (ASIC).
@@ -14,7 +14,7 @@ FPGAs have a remarkable role in embedded system development due to their capabil
 enable system performance simulations at a very early phase of the development,and allow various system partitioning (SW and HW) trials and
 iterations before final freezing of the system architecture.
 
-SOFTWARE: 
+## SOFTWARE: 
 
 In this lab we used Xillinx to write code and testbench. It helps me draw schematic design, simulation, waveform as well as utilization of them.
 
